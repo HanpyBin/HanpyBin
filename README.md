@@ -2,7 +2,7 @@
 - ✊ Competition lover
 - 🤖 ML/DL learner
 - 😀 Be keen to do something interesting with others
-- 🎈 Interested in Computer Vision && Natural Language Process && Recommendation System && Math Modeling
+- 🎈 Interested in Recommendation System && Natural Language Process && Computer Vision && Math Modeling
 - ✨ Personal blog: www.hanpy.plus 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HanpyBin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
