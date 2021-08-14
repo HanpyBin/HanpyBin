@@ -5,7 +5,9 @@
 - 🎈 Interested in **Recommendation System** && Natural Language Process && Computer Vision && Math Modeling
 - ✨ Personal blog: www.hanpy.plus 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HanpyBin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
+<a href="https://github.com/HanpyBin">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanpyBin&hide=html" />
+</a>
 <!--
 **HanpyBin/HanpyBin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
