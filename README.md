@@ -5,4 +5,9 @@
 - ✨ Personal blog: https://www.hanpy.plus (deprecated now)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
