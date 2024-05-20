@@ -5,7 +5,7 @@
 - 🎈 Interested in **Recommendation System** && **Database** && Natural Language Process && Computer Vision && Math Modeling
 
 
-### 📊 Weekly development breakdown
+### 📊 Weekly coding
 <!--START_SECTION:waka-->
 
 ```txt
