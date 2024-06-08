@@ -9,10 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++        42 mins         ████████████████████░░░░░   80.55 %
-Java       10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
