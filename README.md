@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             1 hr 55 mins    █████████████████████▓░░░   86.51 %
+Markdown         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+XML              6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Dockerfile       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
