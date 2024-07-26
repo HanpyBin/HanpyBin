@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              16 hrs 38 mins  ████████████▓░░░░░░░░░░░░   50.35 %
-TypeScript        10 hrs 18 mins  ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-PlantUML file     4 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-JavaScript        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-C++               12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+TypeScript        14 hrs 39 mins  ███████████▒░░░░░░░░░░░░░   45.15 %
+Java              11 hrs 53 mins  █████████░░░░░░░░░░░░░░░░   36.60 %
+PlantUML file     4 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+JavaScript        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+JSON              12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
