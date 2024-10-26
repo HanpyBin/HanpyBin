@@ -9,8 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       49 mins         ████████████████████████▓   99.04 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+TeX            1 hr 14 mins    ███████████████████████▒░   93.73 %
+OpenEdge ABL   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+SSH Config     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
