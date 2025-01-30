@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          4 hrs 26 mins   █████████████████████████   99.39 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TeX   1 hr 22 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
