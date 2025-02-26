@@ -9,8 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 9 mins     ████████████▓░░░░░░░░░░░░   50.81 %
-TeX        1 hr 7 mins     ████████████▒░░░░░░░░░░░░   49.19 %
+Markdown   1 hr 9 mins     ███████████████▓░░░░░░░░░   62.66 %
+TeX        41 mins         █████████▒░░░░░░░░░░░░░░░   37.34 %
 ```
 
 <!--END_SECTION:waka-->
