@@ -9,9 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      17 mins         ████████████▒░░░░░░░░░░░░   49.76 %
-BibTeX   17 mins         ████████████▒░░░░░░░░░░░░   49.50 %
-BST      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
